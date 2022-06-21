@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IQ Game</string>
+    <string name="show">Show</string>
+    <string name="first">First</string>
+    <string name="co_info">From\nName of Company</string>
+    <string name="login">Log In</string>
+    <string name="sign_in">Sign In</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="easy">Easy</string>
+</resources>
